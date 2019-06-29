@@ -1,0 +1,6 @@
+Insert data into table BIM4th
+Find/Display all students details from BIM4th
+Find detail of those Student whose address is Kathmandu 
+Find/Display detail of male student ,whose address is lalitpur
+Delete the record of those students whose age is less than 20
+ 
